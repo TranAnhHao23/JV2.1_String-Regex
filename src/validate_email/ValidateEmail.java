@@ -1,4 +1,4 @@
-package valiadate_email;
+package validate_email;
 
 public class ValidateEmail {
     public static final String[] validEmail = new String[] { "a@gmail.com", "ab@yahoo.com", "abc@hotmail.com" };

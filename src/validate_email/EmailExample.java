@@ -1,4 +1,4 @@
-package valiadate_email;
+package validate_email;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
